@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> Thebullfighter9`
+# `> Taxevaz`
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Developer+%7C+Game+Creator+%7C+Problem+Solver;Turning+random+ideas+into+real+projects;Build.+Break.+Learn.+Improve.;Never+stop+learning."
